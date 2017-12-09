@@ -1,0 +1,23 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "\"A node.js based Hangman game written in Javascript\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KMJ-NH/Constructor-Hangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KMJ-NH/Constructor-Hangman/issues"
+  },
+  "homepage": "https://github.com/KMJ-NH/Constructor-Hangman#readme",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "require": "^2.4.20"
+  }
+}
